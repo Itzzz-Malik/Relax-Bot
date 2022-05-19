@@ -18,6 +18,10 @@ Only me i can see the data's.
 
 i delete it through my own computer and edit them through visual studio.
 
+## If you had any questions regarding the privacy-policy you can contact us in the support server:
+
+- [Server Link](https://discord.gg/6hTzrhGRrb)
+
 ## **Questions and Concerns.**
 
 If you are concerned about anything, you can contact me through any of the following:
