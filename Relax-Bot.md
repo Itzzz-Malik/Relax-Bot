@@ -24,3 +24,8 @@ If you are concerned about anything, you can contact me through any of the follo
 - [Discord.](https://discord.com/users/724723678998167632)
 
  ![Discord](https://discord.c99.nl/widget/theme-1/724723678998167632.png)
+
+
+---
+
+*Make sure to read [Terms Of Service](https://github.com/Itzzz-Malik/Relax-Bot/blob/main/Relax-Bot.md) too* 
