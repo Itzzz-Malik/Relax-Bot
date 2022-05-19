@@ -1,1 +1,1 @@
-# * Privacy-Policy of Relax-bot *#
+# Privacy-Policy of Relax-bot 
